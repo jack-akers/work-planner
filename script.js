@@ -32,5 +32,3 @@ $(function plannerTime() {
     localStorage.setItem("hour-" + hour, descriptionEl.val());
   });
 });
-
-plannerTime();
